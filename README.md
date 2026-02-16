@@ -1,4 +1,4 @@
-# GreenRay---  Deployed Link
+# GreenRay---  Internship Project (Case Study)
 ## Overview
 This project is a web-based Solar Plant Monitoring Dashboard developed during my 
 internship at **Green Ray Technologies Private Limited**. The application supports 
